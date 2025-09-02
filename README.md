@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Olá, eu sou o Fillypy Cleybson  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
