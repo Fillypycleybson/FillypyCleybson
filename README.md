@@ -1,16 +1,20 @@
 ## Hi there 👋
+# 👋 Olá, eu sou o Fillypy Cleybson  
 
-<!--
-**Fillypycleybson/FillypyCleybson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+📍 21 anos, em constante aprendizado e evolução na área de tecnologia.  
+💻 Interessado em **desenvolvimento de software**, **boas práticas de programação** e **soluções inovadoras**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias em aprendizado:
+- 🌐 HTML | CSS | JavaScript  
+- ⚙️ Java |
+
+---
+
+## 📫 Contato
+- 📧 **E-mail:** Fillypy.cley@gmail.com
+- 💼 **LinkedIn:** [[linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
+](https://www.linkedin.com/in/fillypy-cleybson-31ab6237b/)
+---
